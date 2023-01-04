@@ -41,7 +41,7 @@ def product(n, term):
 def accumulate(merger, start, n, term):
     """Return the result of merging the first n terms in a sequence and start.
     The terms to be merged are term(1), term(2), ..., term(n). merger is a
-    two-argument commutative function.
+    two-argument commutative function.dsdasdasdas
 
     >>> accumulate(add, 0, 5, identity)  # 0 + 1 + 2 + 3 + 4 + 5
     15
