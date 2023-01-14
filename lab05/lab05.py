@@ -23,7 +23,7 @@ def flatten(s):
 
 
 #你确定？！
-
+#66666
 
 from math import sqrt
 
